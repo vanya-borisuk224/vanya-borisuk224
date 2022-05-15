@@ -447,7 +447,7 @@ accept_const = myfile.read()
 myfile.close()
 move = 0
 testMove = 0
-api = "Bearer lip_zKpTlyvdLvjEN85acYGM"
+api = "Bearer lip_*************"
 while 1:
  r = requests.get(
     "https://lichess.org/api/stream/event",
